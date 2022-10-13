@@ -1,0 +1,10 @@
+C:\Users\busygin_is\source\repos\SquareLib\SquareLib\obj\Debug\netcoreapp3.1\SquareLib.csprojAssemblyReference.cache
+C:\Users\busygin_is\source\repos\SquareLib\SquareLib\obj\Debug\netcoreapp3.1\SquareLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busygin_is\source\repos\SquareLib\SquareLib\obj\Debug\netcoreapp3.1\SquareLib.AssemblyInfoInputs.cache
+C:\Users\busygin_is\source\repos\SquareLib\SquareLib\obj\Debug\netcoreapp3.1\SquareLib.AssemblyInfo.cs
+C:\Users\busygin_is\source\repos\SquareLib\SquareLib\obj\Debug\netcoreapp3.1\SquareLib.csproj.CoreCompileInputs.cache
+C:\Users\busygin_is\source\repos\SquareLib\SquareLib\bin\Debug\netcoreapp3.1\SquareLib.deps.json
+C:\Users\busygin_is\source\repos\SquareLib\SquareLib\bin\Debug\netcoreapp3.1\SquareLib.dll
+C:\Users\busygin_is\source\repos\SquareLib\SquareLib\bin\Debug\netcoreapp3.1\SquareLib.pdb
+C:\Users\busygin_is\source\repos\SquareLib\SquareLib\obj\Debug\netcoreapp3.1\SquareLib.dll
+C:\Users\busygin_is\source\repos\SquareLib\SquareLib\obj\Debug\netcoreapp3.1\SquareLib.pdb
